@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+    padding: 1em;
+    max-height: 10vh;
+    background-image: linear-gradient(to left,#61045f, #aa076b,#61045f);
+}
+
+.nav-logo {
+    width: 3.5em;
+}
+
+.nav-title {
+    color: #fff;
+}
